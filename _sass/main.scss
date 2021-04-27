@@ -1,10 +1,16 @@
+$magic-white:   #F5FFFF;
+$magic-gray:    #3D4047;
+$magic-black:   #151715;
+$magic-red:     #6E2E3C;
+$magic-gold:    #CCAA4E;
+
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
 }
 
 nav {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 12px;
     width: 200px;
     list-style: none;
@@ -16,7 +22,6 @@ nav {
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 12px;
     width: 200px;
     list-style: none;
@@ -34,7 +39,7 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: gray;
+    color: $magic-gray;
 }
 a:hover {
     text-decoration: underline;
@@ -42,7 +47,6 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
@@ -65,5 +69,5 @@ ul.posts li {
 }
 
 .current {
-    color: light-gray;
+    color: $magic-gray;
   }
