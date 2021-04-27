@@ -1,23 +1,47 @@
+//theme colors from the color swatches.
+//OVER BLACK: gray and red strains to read. gold is okay. white is easiest to read.
+//OVER GOLD: gray and red are okay. black and white are easiest to read.
+//OVER GRAY: red and black strain to read. gold is okay. white is easiest to read.
+//OVER WHITE: gold strains to read. gray and red are okay. black is easiest to read.
+//OVER RED: gray strains to read. gold and black are okay. white is easiest to read.
+$magic-white:   #F5FFFF;
+$magic-gray:    #3D4047;
+$magic-black:   #151715;
+$magic-red:     #6E2E3C;
+$magic-gold:    #CCAA4E;
+
+//global font
+$magic-fonts: 'Trebuchet MS', 'Arial', 'Sans-Serif';
+
+// html specific specialized section tags, these are the tags build into html that divide the page
 body {
-    margin: 60px auto;
+    margin: 60px 20%;
     width: 70%;
+    font-family: $magic-fonts;
+    background-color: $magic-white;
+    color: $magic-black;
+    font-size: 1.2em;
 }
 
 nav {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    width: 200px;
+    padding-top: 12px;
+    width: 10%;
+    min-width: 60px;
+    height: 100%;
     list-style: none;
     font-weight: bold;
     z-index: 10;
     left: 0;
     top: 0;
     position: fixed;
+    text-align: center;
+    background-color: $magic-gray;
+    color: $magic-white;
+    border-right: 2px solid $magic-gold;
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 12px;
     width: 200px;
     list-style: none;
     font-weight: bold;
@@ -32,9 +56,14 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
+footer {
+    border-top: 1px solid #d5d5d5;
+}
+
+// generic global html elements
 a {
     text-decoration: none;
-    color: gray;
+    color: $magic-red;
 }
 a:hover {
     text-decoration: underline;
@@ -42,28 +71,73 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
 }
 
 p {
-    font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    color: $magic-black;
 }
 
-ul.posts { 
+//unordered list
+ul { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
 }
 
-ul.posts li {
-    list-style: none;
+//unordered list. list. (this is an element in an unordered list.)
+ul li {
+    list-style: disc;
+}
+
+//ordered list
+ol { 
+    margin: 20px auto 40px; 
+}
+
+//ordered list. list. (this is an element in an ordered list.)
+ol li {
+    list-style: upper-roman;
+}
+
+//horizontal rule (line)
+hr {
+    color: $magic-gold;
+}
+
+//for large quotes
+blockquote {
+    font-style: italic;
+    border-left: 2px solid $magic-gold;
+    padding-left: 40px;
+    margin-left: 0;
+}
+
+//for commands
+code {
+    font-family: "Courier New";
+    color: $magic-white;
+    font-weight: normal;
+    background-color: $magic-gray;
+    padding: 1px;
+    border-radius: 4px;
+}
+//for code blocks
+pre {
+    font-family: "Courier New";
+    color: $magic-white;
+    font-weight: normal;
+    background-color: $magic-gray;
+    padding: 16px;
+    border-radius: 4px;
 }
 
 .current {
-    color: light-gray;
+    color: $magic-gray;
   }

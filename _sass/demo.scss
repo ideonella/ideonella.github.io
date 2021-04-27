@@ -1,0 +1,40 @@
+.magic-white-font {
+    color: $magic-white;
+}
+.magic-gray-font {
+    color: $magic-gray;
+}
+.magic-black-font {
+    color: $magic-black;
+}
+.magic-red-font {
+    color: $magic-red;
+}
+.magic-gold-font {
+    color: $magic-gold;
+}
+.box0 {
+    background-color: $magic-white;
+}
+.box1 {
+    background-color: $magic-gray;
+}
+.box2 {
+    background-color: $magic-black;
+}
+.box3 {
+    background-color: $magic-red;
+}
+.box4 {
+    background-color: $magic-gold;
+}
+.critical {
+    background-color: $magic-red;
+    padding: 1.5em;
+    color: $magic-white;
+}
+.alert {
+    background-color: $magic-gold;
+    padding: 1.5em;
+    color: $magic-white;
+}
