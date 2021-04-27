@@ -20,6 +20,7 @@ body {
     font-family: $magic-fonts;
     background-color: $magic-white;
     color: $magic-black;
+    font-size: 1.2em;
 }
 
 nav {
@@ -57,7 +58,6 @@ nav ul li, footer ul li {
 
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
 
 // generic global html elements
@@ -82,7 +82,6 @@ h3 {
 }
 
 p {
-    font-size: 1.5em;
     line-height: 1.4em;
     color: $magic-black;
 }
@@ -90,29 +89,34 @@ p {
 //unordered list
 ul { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
 }
 
 //unordered list. list. (this is an element in an unordered list.)
 ul li {
-    list-style: disk;
+    list-style: disc;
 }
 
 //ordered list
 ol { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
 }
 
 //ordered list. list. (this is an element in an ordered list.)
 ol li {
-    //I means roman numerals
-    list-style: I;
+    list-style: upper-roman;
+}
+
+//horizontal rule (line)
+hr {
+    color: $magic-gold;
 }
 
 //for large quotes
 blockquote {
     font-style: italic;
+    border-left: 4px solid $magic-gold;
+    padding-left: 40px;
+    margin-left: 0;
 }
 
 //for commands
