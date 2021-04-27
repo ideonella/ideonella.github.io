@@ -73,19 +73,64 @@ h1 {
     font-size: 1em;
 }
 
+h2 {
+    font-size: 1em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: $magic-black;
 }
 
-ul.posts { 
+//unordered list
+ul { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
-ul.posts li {
+//unordered list. list. (this is an element in an unordered list.)
+ul li {
     list-style: none;
+}
+
+//ordered list
+ol { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+//ordered list. list. (this is an element in an ordered list.)
+ol li {
+    list-style: none;
+}
+
+//for large quotes
+blockquote {
+    font-style: italic;
+}
+
+//for commands
+code {
+    font-family: "Courier New";
+    color: $magic-white;
+    font-weight: normal;
+    background-color: $magic-gray;
+    padding: 1px;
+    border-radius: 4px;
+}
+//for code blocks
+pre {
+    font-family: "Courier New";
+    color: $magic-white;
+    font-weight: normal;
+    background-color: $magic-gray;
+    padding: 16px;
+    border-radius: 4px;
 }
 
 .current {
