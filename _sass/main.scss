@@ -1,13 +1,23 @@
+//theme colors from the color swatches.
+//OVER BLACK: gray and red strains to read. gold is okay. white is easiest to read.
+//OVER GOLD: white strains to read. gray and red are okay. black is easiest to read.
+//OVER GRAY: red and black strain to read. gold is okay. white is easiest to read.
+//OVER WHITE: red and gold strain to read. gray is okay. black is easiest to read.
+//OVER RED: gray strains to read. gold and black are okay. white is easiest to read.
 $magic-white:   #F5FFFF;
 $magic-gray:    #3D4047;
 $magic-black:   #151715;
 $magic-red:     #6E2E3C;
 $magic-gold:    #CCAA4E;
 
+//global font
+$magic-fonts: 'Trebuchet MS', 'Arial', 'Sans-Serif';
+
+// html specific specialized section tags, these are the tags build into html that divide the page
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
+    font-family: $magic-fonts;
 }
 
 nav {
@@ -37,6 +47,12 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+// generic global html elements
 a {
     text-decoration: none;
     color: $magic-gray;
@@ -52,11 +68,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    color: $magic-black;
 }
 
 ul.posts { 
