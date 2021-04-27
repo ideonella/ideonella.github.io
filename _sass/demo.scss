@@ -28,3 +28,13 @@
 .box4 {
     background-color: $magic-gold;
 }
+.critical {
+    background-color: $magic-red;
+    padding: 1.5em;
+    color: $magic-white;
+}
+.alert {
+    background-color: $magic-gold;
+    padding: 1.5em;
+    color: $magic-white;
+}
