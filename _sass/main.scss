@@ -3,6 +3,18 @@ body {
     width: 70%;
 }
 
+nav {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    width: 200px;
+    list-style: none;
+    font-weight: bold;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    position: fixed;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -12,6 +24,7 @@ nav ul, footer ul {
     z-index: 10;
     left: 0;
     top: 0;
+    position: fixed;
 }
 
 nav ul li, footer ul li {
