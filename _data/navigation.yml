@@ -4,3 +4,9 @@
   link: /about.html
 - name: Blog
   link: /blog.html
+- name: About the Guild
+  link: /guildinfo.html
+- name: Social Events
+  link: /social.html
+- name: How to
+  link: /guide.html
