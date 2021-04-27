@@ -45,6 +45,9 @@ nav a {
     width: 80%;
     padding: 4px 5% 6px 15%;
 }
+nav a:hover {
+    background-color: $magic-black;
+}
 
 footer {
     border-top: 1px solid #d5d5d5;
