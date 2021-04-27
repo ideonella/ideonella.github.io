@@ -6,8 +6,12 @@ body {
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
+    width: 200px;
     list-style: none;
     font-weight: bold;
+    z-index: 10;
+    left 0;
+    top: 0;
 }
 
 nav ul li, footer ul li {
@@ -17,7 +21,7 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: rgb(255, 127, 0);
+    color: gray;
 }
 a:hover {
     text-decoration: underline;
@@ -48,5 +52,5 @@ ul.posts li {
 }
 
 .current {
-    color: green;
+    color: light-gray;
   }
