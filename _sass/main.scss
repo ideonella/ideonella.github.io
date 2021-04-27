@@ -95,7 +95,7 @@ ul {
 
 //unordered list. list. (this is an element in an unordered list.)
 ul li {
-    list-style: none;
+    list-style: disk;
 }
 
 //ordered list
@@ -106,7 +106,8 @@ ol {
 
 //ordered list. list. (this is an element in an ordered list.)
 ol li {
-    list-style: none;
+    //I means roman numerals
+    list-style: I;
 }
 
 //for large quotes
