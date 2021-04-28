@@ -24,6 +24,10 @@ nav a:hover {
     text-decoration: none;
 }
 
+nav a:active {
+    background-color: $magic-red;
+}
+
 nav a.current {
     background-color: $magic-gold;
 }
