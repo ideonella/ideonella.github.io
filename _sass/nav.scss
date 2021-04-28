@@ -24,6 +24,6 @@ nav a:hover {
     text-decoration: none;
 }
 
-nav a:active {
+nav a.current {
     background-color: $magic-gold;
 }
