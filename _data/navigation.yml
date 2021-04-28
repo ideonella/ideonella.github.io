@@ -2,6 +2,8 @@
   link: /
 - name: PvP Info
   link: /pvp
+- name: PvP Rank
+  link: leaderboard
 - name: Social Events
   link: /social
 - name: How to
