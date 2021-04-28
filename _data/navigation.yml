@@ -1,9 +1,9 @@
 - name: Home
   link: /
-- name: Blog
-  link: /blog.html
 - name: About the Guild
   link: /guildinfo.html
+- name: PvP Info
+  link: /pvp.html
 - name: Social Events
   link: /social.html
 - name: How to
