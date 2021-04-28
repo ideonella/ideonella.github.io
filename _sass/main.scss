@@ -24,7 +24,6 @@ body {
 }
 
 nav {
-    padding-top: 12px;
     width: 10%;
     min-width: 60px;
     height: 100%;
@@ -34,26 +33,20 @@ nav {
     left: 0;
     top: 0;
     position: fixed;
-    text-align: center;
+    text-align: left;
     background-color: $magic-gray;
     color: $magic-white;
     border-right: 2px solid $magic-gold;
 }
 
-nav ul, footer ul {
-    padding: 12px;
-    width: 200px;
-    list-style: none;
-    font-weight: bold;
-    z-index: 10;
-    left: 0;
-    top: 0;
-    position: fixed;
+nav a {
+    display: inline-flex;
+    width: 80%;
+    padding: 4px 5% 6px 15%;
 }
-
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+nav a:hover {
+    background-color: $magic-black;
+    text-decoration: none;
 }
 
 footer {
