@@ -12,6 +12,8 @@ $magic-gold:    #CCAA4E;
 
 //global font
 $magic-fonts: 'Trebuchet MS', 'Arial', 'Sans-Serif';
+$font-size: 1.2em;
+$font-size-larger: 1.3em;
 
 // html specific specialized section tags, these are the tags build into html that divide the page
 body {
@@ -20,7 +22,7 @@ body {
     font-family: $magic-fonts;
     background-color: $magic-white;
     color: $magic-black;
-    font-size: 1.2em;
+    font-size: $font-size;
 }
 
 footer {
@@ -37,6 +39,11 @@ a.white-text {
 }
 a:hover {
     text-decoration: underline;
+}
+
+b {
+    font-size: $font-size-larger;
+    font-weight: bold;
 }
 
 h1 {
