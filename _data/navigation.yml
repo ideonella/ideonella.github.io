@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: About the Guild
-  link: /guildinfo.html
 - name: PvP Info
   link: /pvp.html
 - name: Social Events
