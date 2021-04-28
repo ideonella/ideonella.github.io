@@ -1,0 +1,30 @@
+nav {
+    width: 10%;
+    min-width: 60px;
+    height: 100%;
+    list-style: none;
+    font-weight: bold;
+    z-index: 10;
+    left: 0;
+    top: 0;
+    position: fixed;
+    text-align: left;
+    background-color: $magic-gray;
+    color: $magic-white;
+    border-right: 2px solid $magic-gold;
+}
+
+nav a {
+    display: inline-flex;
+    width: 80%;
+    padding: 4px 5% 6px 15%;
+}
+
+nav a.current {
+    background-color: $magic-gold;
+}
+
+nav a:hover {
+    background-color: $magic-black;
+    text-decoration: none;
+}

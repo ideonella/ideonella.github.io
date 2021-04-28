@@ -1,8 +1,10 @@
 - name: Home
   link: /
 - name: PvP Info
-  link: /pvp.html
+  link: /pvp
+- name: PvP Rank
+  link: leaderboard
 - name: Social Events
-  link: /social.html
+  link: /social
 - name: How to
-  link: /guide.html
+  link: /guide
