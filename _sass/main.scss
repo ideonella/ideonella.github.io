@@ -32,6 +32,9 @@ a {
     text-decoration: none;
     color: $magic-red;
 }
+a.white {
+    color: $magic-white;
+}
 a:hover {
     text-decoration: underline;
 }
@@ -84,6 +87,10 @@ blockquote {
     border-left: 2px solid $magic-gold;
     padding-left: 40px;
     margin-left: 0;
+}
+
+blockquote p.signature {
+    text-align: right;
 }
 
 //for commands
