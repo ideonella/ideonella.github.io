@@ -31,7 +31,7 @@ Militia may not be punished for breaking PvP duties unless they refuse to retrea
 - Ensure all enlisted know, understand, and abide by the rules and power structure.
 - Lead structured battles.
 - Structure the enlisted.
-  - {: #style="margin:0"} Each enlisted may only have one superior
+  - {: #no-margin style="margin:0"} Each enlisted may only have one superior
   - Delegate resources
   - Remove or apply remedial training
 - Relay problems with enlisted to the guildmaster or advisor.
