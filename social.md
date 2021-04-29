@@ -12,7 +12,7 @@ A potential guild member:
 
 A big part of the guild is having guildmates to interact with! Between special events, guild missions, or ad-hoc parties, there's almost always a group of us doing something together. The easiest way to socialize is through Discord. Having a microphone on in Discord is completely optional though, so don't worry about pressure to be active in voice. Feel free to just listen and respond in guild/party chat!
 
-[discord.gg/BRvR6g4zyE](https://discord.gg/BRvR6g4zyE) {: .white-text}
+{: .white-text} [discord.gg/BRvR6g4zyE](https://discord.gg/BRvR6g4zyE)
 {: .alert}
 
 Our guild has some fairly diverse members, so remember to respect everyone! Review the [rules and punishments for breaking them](#/rules) if you feel like being prejudice against peoples. Keeping all communication respectful is a critical part of the guild.
@@ -63,7 +63,7 @@ Vell is a world boss. We must leave on the half hour sharp in order to make it o
 |4:20-pm Western|5:20-pm Mountain|6:20-pm Central|7:20-pm Eastern|
 |Sundays        |                |               |               |
 |1:20-pm Western|2:20-pm Mountain|3:20-pm Central|4:20-pm Eastern|
-{class .strong}
+{: .strong}
 
 eastcoast&westcoast blazeit
 
