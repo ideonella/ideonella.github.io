@@ -8,12 +8,12 @@ title: Social Events
 A potential guild member:
 
 > "What's important to me is the fellowship/community factor: of doing activities in game, with like-minded people."
-> - 𝑽𝒊𝒄𝒕𝒐𝒓𝒊𝒂𝑳𝒆𝒆(ꈍᴗꈍ) {: .signature}
+> <span class="signature">- 𝑽𝒊𝒄𝒕𝒐𝒓𝒊𝒂𝑳𝒆𝒆(ꈍᴗꈍ) {: .signature}</span>
 
 A big part of the guild is having guildmates to interact with! Between special events, guild missions, or ad-hoc parties, there's almost always a group of us doing something together. The easiest way to socialize is through Discord. Having a microphone on in Discord is completely optional though, so don't worry about pressure to be active in voice. Feel free to just listen and respond in guild/party chat!
 
-{: .white-text} [discord.gg/BRvR6g4zyE](https://discord.gg/BRvR6g4zyE)
-{: .alert}
+<span class="white-text" href="https://discord.gg/BRvR6g4zyE">discord.gg/BRvR6g4zyE</span>
+{: .alert .white-text}
 
 Our guild has some fairly diverse members, so remember to respect everyone! Review the [rules and punishments for breaking them](#/rules) if you feel like being prejudice against peoples. Keeping all communication respectful is a critical part of the guild.
 
@@ -22,7 +22,7 @@ Our guild has some fairly diverse members, so remember to respect everyone! Revi
 Having a server list helps us to congregate and notice eachother in the world. Sticking to the server list isn't mandatory, but you'll see more guildmates in the suggested servers.
 
 |Main|Mediah2|
-|Elvia|MEdiah4
+|Elvia|Mediah4
 |Growth|Olvia4|
 |Seasonal|Season4|
 {: .small strong}
