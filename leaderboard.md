@@ -9,7 +9,7 @@ Note: In some circumstances the rankings may be removed, changed, or otherwise f
 {: .alert}
 
 |     Family     |   Elo   |
-|:---------------|:--------|
+|:---------------|:-------:|
 {% for item in site.data.rankings -%}
-| {{ item.family }} | {{ item.elo }} |
+|{{ item.family }}|{{ item.elo }}|
 {%- endfor -%}
