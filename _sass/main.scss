@@ -75,6 +75,10 @@ ul li {
     list-style: disc;
 }
 
+ul ul li {
+    list-style: circle;
+}
+
 //ordered list
 ol { 
     margin: 20px auto 40px; 
