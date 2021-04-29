@@ -21,7 +21,7 @@ Later rules use these terms
 - Militia – Members who are not enlisted but get caught in structured battle.
 - Skirmish – Any battle not involving the lieutenant or commander or any battle not during war-time.
 
-## Rules and responsibilities
+## Rules and Responsibilities
 
 Militia may not be punished for breaking PvP duties unless they refuse to retreat when ordered by commander during wartime.
 {: .critical}
@@ -31,9 +31,9 @@ Militia may not be punished for breaking PvP duties unless they refuse to retrea
 - Ensure all enlisted know, understand, and abide by the rules and power structure.
 - Lead structured battles.
 - Structure the enlisted.
-    - Each enlisted may only have one superior
-    - Delegate resources
-    - Remove or apply remedial training
+ - Each enlisted may only have one superior
+ - Delegate resources
+ - Remove or apply remedial training
 - Relay problems with enlisted to the guildmaster or advisor.
 - Train the lietenant to be able to lead strucutred battles in the Commander's absence.
 - Plan node wars and ask for the resources needed.
