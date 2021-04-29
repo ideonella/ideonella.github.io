@@ -5,6 +5,10 @@ table {
   text-align: left;
 }
 
+tr {
+  line-height: 1.3em;
+}
+
 //row in header
 thead tr {
 }
@@ -30,9 +34,4 @@ table.small {
 table.strong {
   font-weight: bold;
   font-size: $font-size-larger;
-}
-
-//row in a table marked strong
-.strong tr {
-  line-height: $font-size-larger;
 }
