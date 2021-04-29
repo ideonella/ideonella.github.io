@@ -48,6 +48,13 @@ b {
     text-shadow: 1px 1px 1px $magic-black;
 }
 
+strong {
+    font-size: $font-size-larger;
+    font-weight: bold;
+    color: $magic-gold;
+    text-shadow: 1px 1px 1px $magic-black;
+}
+
 h1 {
     font-size: 3em;
 }
