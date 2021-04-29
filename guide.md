@@ -24,6 +24,7 @@ Later rules use these terms
 ## Rules and responsibilities
 
 Militia may not be punished for breaking PvP duties unless they refuse to retreat when ordered by commander during wartime.
+{: .critical}
 
 ### For the Commander
 
