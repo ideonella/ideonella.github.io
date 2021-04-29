@@ -5,16 +5,6 @@ table {
   text-align: left;
 }
 
-table.small {
-  width: 20%;
-  margin: 0;
-}
-
-table.strong {
-  font-weight: bold;
-  font-size: $font-size-larger;
-}
-
 //row in header
 thead tr {
 }
@@ -30,4 +20,19 @@ tbody tr {
 }
 //cell in body
 tbody tr td {
+}
+
+table.small {
+  width: 20%;
+  margin: 0 0 24px 0;
+}
+
+table.strong {
+  font-weight: bold;
+  font-size: $font-size-larger;
+}
+
+//row in a table marked strong
+.strong tr {
+  line-height: $font-size-larger;
 }
