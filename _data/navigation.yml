@@ -8,3 +8,5 @@
   link: /social
 - name: How to
   link: /guide
+- name: secrets
+  link: /secrets
