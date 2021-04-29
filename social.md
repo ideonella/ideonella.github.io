@@ -59,10 +59,8 @@ Every **Wednesday** and **Sunday** we meet up on the **Velia** docks and make a 
 We must leave on the half hour sharp in order to make it on time!
 {: .critical}
 
-|Wednesdays     |                |               |               |
-|4:20-pm Western|5:20-pm Mountain|6:20-pm Central|7:20-pm Eastern|
-|Sundays        |                |               |               |
-|1:20-pm Western|2:20-pm Mountain|3:20-pm Central|4:20-pm Eastern|
+|Wednesdays|4:20-pm Western|5:20-pm Mountain|6:20-pm Central|7:20-pm Eastern|
+|Sundays|1:20-pm Western|2:20-pm Mountain|3:20-pm Central|4:20-pm Eastern|
 {: .strong}
 
 eastcoast&westcoast blazeit
