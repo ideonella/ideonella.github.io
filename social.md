@@ -8,7 +8,7 @@ title: Social Events
 A potential guild member:
 
 > "What's important to me is the fellowship/community factor: of doing activities in game, with like-minded people."  
-> <span class=".signature">- 𝑽𝒊𝒄𝒕𝒐𝒓𝒊𝒂𝑳𝒆𝒆(ꈍᴗꈍ)</span>
+> <p class=".signature">- 𝑽𝒊𝒄𝒕𝒐𝒓𝒊𝒂𝑳𝒆𝒆(ꈍᴗꈍ)</p>
 
 A big part of the guild is having guildmates to interact with! Between special events, guild missions, or ad-hoc parties, there's almost always a group of us doing something together. The easiest way to socialize is through Discord. Having a microphone on in Discord is completely optional though, so don't worry about pressure to be active in voice. Feel free to just listen and respond in guild/party chat!
 
@@ -45,7 +45,7 @@ We are a casual guild, and while no event is mandatory, we do encourage everyone
 
 ### Boss Night {#boss-night}
 
-Our largest social event so far is boss night! We meet up in __Heidel__ every __Saturday__ night. This event gives the guild members silver and skill points.
+Our largest social event so far is boss night! We meet up in <b>Heidel</b> every <b>Saturday</b> night. This event gives the guild members silver and skill points.
 
 |8-pm Western|9-pm Mountain|10-pm Central|11-pm Eastern|
 {: .strong}
@@ -54,7 +54,7 @@ Our largest social event so far is boss night! We meet up in __Heidel__ every __
 
 ### Ship to Vell {#ship-to-vell}
 
-Every __Wednesday__ and __Sunday__ we meet up on the __Velia__ docks and make a platoon. We make conversation and have a leisurely sail up to Vell. Then, we frantically dive down and swim back up avoiding Vell's insta-kill abilities! This boss has a rare chance to drop Vell's heart. The item sells for around 12 billion silver!
+Every <b>Wednesday</b> and <b>Sunday</b> we meet up on the <b>Velia</b> docks and make a platoon. We make conversation and have a leisurely sail up to Vell. Then, we frantically dive down and swim back up avoiding Vell's insta-kill abilities! This boss has a rare chance to drop Vell's heart. The item sells for around 12 billion silver!
 
 Vell is a world boss. We must leave on the half hour sharp in order to make it on time!
 {: .critical}
@@ -71,7 +71,7 @@ eastcoast&westcoast blazeit
 
 ### PvP Tournaments {#pvp-tournaments}
 
-Some of our members are passionate about PvP. This lets us have fun tournament events! There are two kinds of tournaments. Ranked and unranked. Power, or ranked, tournaments happen on the first __Sunday__ of the month after Vell and are used to determine P-Rank. Power tournaments use the member's own characters and gear. Enlisted's P-Rank will be published, but publishing is optional for regular members. Unranked tournaments happen every Sunday after Vell. Unranked tournaments can take on several forms: Oasis, where everyone must use Oasis event armor, weapons, and cannot use accessories; Trial, where everyone uses a trial character for the tournament; and Node, where everyone must limit their AP/DP to a certain amount.
+Some of our members are passionate about PvP. This lets us have fun tournament events! There are two kinds of tournaments. Ranked and unranked. Power, or ranked, tournaments happen on the first <b>Sunday</b> of the month after Vell and are used to determine P-Rank. Power tournaments use the member's own characters and gear. Enlisted's P-Rank will be published, but publishing is optional for regular members. Unranked tournaments happen every Sunday after Vell. Unranked tournaments can take on several forms: Oasis, where everyone must use Oasis event armor, weapons, and cannot use accessories; Trial, where everyone uses a trial character for the tournament; and Node, where everyone must limit their AP/DP to a certain amount.
 
 This is a great spectator event!
 
@@ -79,13 +79,13 @@ This is a great spectator event!
 
 ### Mirumok Grinding {#mirumok-grinding}
 
-After Vell on __Wednesdays__, we form groups and go farm Mirumoks! Mirumoks give some of the best Combat EXP in the game, and it's a good way to get some extra money.
+After Vell on <b>Wednesdays</b>, we form groups and go farm Mirumoks! Mirumoks give some of the best Combat EXP in the game, and it's a good way to get some extra money.
 
 ---
 
 ### Guild Voting {#guild-voting}
 
-On __Fridays__ we open voting for guild skills. These skills are unlocked with points earned by guild missions. So if you really want a skill, make sure you participate in the guild missions. The votes are counted Sunday night. Voting for more than one skill is allowed.
+On <b>Fridays</b> we open voting for guild skills. These skills are unlocked with points earned by guild missions. So if you really want a skill, make sure you participate in the guild missions. The votes are counted Sunday night. Voting for more than one skill is allowed.
  
 The Stawpoll will be posted in Discord on Friday evening.
 
