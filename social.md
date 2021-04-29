@@ -8,7 +8,7 @@ title: Social Events
 A potential guild member:
 
 > "What's important to me is the fellowship/community factor: of doing activities in game, with like-minded people."  
-> <p class="signature">- 𝑽𝒊𝒄𝒕𝒐𝒓𝒊𝒂𝑳𝒆𝒆(ꈍᴗꈍ)</p>
+> - 𝑽𝒊𝒄𝒕𝒐𝒓𝒊𝒂𝑳𝒆𝒆(ꈍᴗꈍ) {: .signature}
 
 A big part of the guild is having guildmates to interact with! Between special events, guild missions, or ad-hoc parties, there's almost always a group of us doing something together. The easiest way to socialize is through Discord. Having a microphone on in Discord is completely optional though, so don't worry about pressure to be active in voice. Feel free to just listen and respond in guild/party chat!
 
