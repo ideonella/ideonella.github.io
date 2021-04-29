@@ -54,7 +54,7 @@ Our largest social event so far is boss night! We meet up in <b>Heidel</b> every
 
 ### Ship to Vell {#ship-to-vell}
 
-Every <b>Wednesday</b> and <b>Sunday</b> we meet up on the <b>Velia</b> docks and make a platoon. We make conversation and have a leisurely sail up to Vell. Then, we frantically dive down and swim back up avoiding Vell's insta-kill abilities! This boss has a rare chance to drop Vell's heart. The item sells for around 12 billion silver!
+Every <b>Wednesday</b> and <b>Sunday</b> we meet up on the <b>Velia</b> **docks** and make a platoon. We make conversation and have a leisurely sail up to Vell. Then, we frantically dive down and swim back up avoiding Vell's insta-kill abilities! This boss has a rare chance to drop Vell's heart. The item sells for around 12 billion silver!
 
 Vell is a world boss. We must leave on the half hour sharp in order to make it on time!
 {: .critical}
