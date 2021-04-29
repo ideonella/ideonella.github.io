@@ -14,7 +14,7 @@ The game is fairly complex. Because of this, we're compiling some links we think
 
 For newer players the gear progression can be fairly daunting. We hope to help our members understand the gear in the game with this guide. This guide is maintained by guild officers.
 
-# Sections
+### Sections
 
 - [What is this Attribute?](#what-is-this-attribute)
 - [Naru](#naru)
@@ -22,15 +22,15 @@ For newer players the gear progression can be fairly daunting. We hope to help o
 - [Narchillan](#narchillan)
 - [Boss](#boss-gear)
 
-# What is this Attribute? {#what-is-this-attribute}
+### What is this Attribute? {#what-is-this-attribute}
 
-# Naru {#naru}
+### Naru {#naru}
 
-# Oasis {#oasis}
+### Oasis {#oasis}
 
-# Narchillan {#narchillan}
+### Narchillan {#narchillan}
 
-# Boss {#boss-gear}
+### Boss {#boss-gear}
 
 ---
 
