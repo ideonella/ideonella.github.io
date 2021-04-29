@@ -8,8 +8,8 @@ This is the offical Power-Ranking (P-Rank) of all enlisted members! Guild member
 Note: In some circumstances the rankings may be removed, changed, or otherwise falsified. This may be due to node war activity. Speak with the Commander if there seems to be a problem with your published P-Rank.
 {: .alert}
 
-|     Family     |   Elo   |
-|:---------------|:-------:|
+|   Family   |  Elo  |
+|:-----------|:-----:|
 {% for item in site.data.rankings -%}
 |{{ item.family }}|{{ item.elo }}|
-{%- endfor -%}
+{% endfor %}
