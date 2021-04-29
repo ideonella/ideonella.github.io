@@ -59,9 +59,9 @@ Every __Wednesday__ and __Sunday__ we meet up on the __Velia__ docks and make a 
 Vell is a world boss. We must leave on the half hour sharp in order to make it on time!
 {: .critical}
 
-|Wednesdays||||
+|Wednesdays| | | |
 |4:20-pm Western|5:20-pm Mountain|6:20-pm Central|7:20-pm Eastern|
-|Sundays||||
+|Sundays| | | |
 |1:20-pm Western|2:20-pm Mountain|3:20-pm Central|4:20-pm Eastern|
 {class .strong}
 
