@@ -25,7 +25,7 @@ Having a server list helps us to congregate and notice eachother in the world. S
 |Elvia|Mediah4
 |Growth|Olvia4|
 |Seasonal|Season4|
-{: .small strong}
+{: .small .strong}
 
 ---
 
@@ -102,4 +102,4 @@ These are the suggested daily activites!
 |Thursday|Lifeskill|
 |Friday|Grind|
 |Saturday|Bosses|
-{: .small strong}
+{: .small .strong}
