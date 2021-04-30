@@ -11,7 +11,7 @@ Welcome to the Magic_Girls Black Desert Online guild site.
 
 Come chill while sailing, grinding, trading, ganking, and/or questing. There's no role-call, so don't worry if you miss every "Boss Saturday", "Trading Thursday", or "PvP Tuesday". If you find magic from every other "Grinding Friday", then feel free to join us every other Friday. For the experienced player looking for a guild that isn't demanding, doesn't have performance requirements, and isn't filled with petty drama, this is that guild We'd also like to help newer players get into the game and give them a community!
 
-Magic_Girls is a PvX guild that prioritizes fellowship and fun over being number one. We find the magic and fun in all aspects of the game from lifeskilling, to PvE, to PvP. This is a casual guild.
+Magic_Girls is a PvX guild that prioritizes fellowship and fun over being number one. We find the magic and fun in all aspects of the game from lifeskilling, to PvE, to PvP. This is a social guild.
 {: .critical}
 
 Talk to any of our officers in game or in Discord to join us and begin making friends! Discord Link: [discord.gg/BRvR6g4zyE](https://discord.gg/BRvR6g4zyE)
