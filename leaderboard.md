@@ -8,7 +8,7 @@ This is the offical Power-Ranking (P-Rank) of all enlisted members! Guild member
 |   Family   |  Elo  |
 |:-----------|:-----:|
 {% for item in site.data.rankings -%}
-{% assign familyName = "<p id={{item.family}}>{{item.family}}</p>" %}
+{% assign familyName = '<p id="{{item.family}}">{{item.family}}</p>' %}
 |{{ familyName }}|{{ item.elo }}|
 {% endfor %}
 
