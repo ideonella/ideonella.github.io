@@ -44,3 +44,18 @@ This is a table.
 |a|a|
 
 ### Tiny Table {#tiny-table}
+|Column Header|Second|
+|-------------|------|
+|test|test1|
+|aaaaaaaaaaaaaaaaaaaaa|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|
+|a|a|
+{: .small}
+
+or strong... they can be combined as well
+
+|Column Header|Second|
+|-------------|------|
+|test|test1|
+|aaaaaaaaaaaaaaaaaaaaa|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa|
+|a|a|
+{: .small .strong}
