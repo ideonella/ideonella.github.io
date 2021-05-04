@@ -15,6 +15,8 @@ A potential guild member:
 A big part of the guild is having guildmates to interact with! Between special events, guild missions, or ad-hoc parties, there's almost always a group of us doing something together. The easiest way to socialize is through Discord. Having a microphone on in Discord is completely optional though, so don't worry about pressure to be active in voice. Feel free to just listen and respond in guild/party chat!
 
 <span class="white-text" href="https://discord.gg/BRvR6g4zyE">discord.gg/BRvR6g4zyE</span>
+[discord.gg/BRvR6g4zyE]("https://discord.gg/BRvR6g4zyE"){: .white-text}
+
 {: .alert .white-text}
 
 Our guild has some fairly diverse members, so remember to respect everyone! Review the [rules and punishments for breaking them](#/rules) if you feel like being prejudice against peoples. Keeping all communication respectful is a critical part of the guild.
