@@ -4,11 +4,11 @@
   elo: 896
 - family: UpTide
   elo: 880
-- family: FinalVirus
-  elo: 800
 - family: SquarelyCircle
   elo: 800
+- family: FinalVirus
+  elo: 720
 - family: GeoCrumb
   elo: 720
 - family: Ledvig
-  elo: 640
+  elo: 720
