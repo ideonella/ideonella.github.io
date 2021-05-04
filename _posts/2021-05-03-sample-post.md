@@ -9,8 +9,8 @@ Your Title and Description will automatically be posted here. Sections should be
 
 ## Sections {#sections}
 
-- [Test 0] (#{{link}}-test-0)
-- [Test 1] (#{{link}}-test-1)
+- [Test 0] (#test-0)
+- [Test 1] (#test-1)
 
 ## Test 0 {#test-0}
 
