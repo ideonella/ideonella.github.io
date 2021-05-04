@@ -2,7 +2,7 @@
 layout: default
 title: Testing How-To
 ---
-
+<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
@@ -10,3 +10,4 @@ title: Testing How-To
       <p>By: {{ post.author }}</p>
     </li>
   {% endfor %}
+</ul>
