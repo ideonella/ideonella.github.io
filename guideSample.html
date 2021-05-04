@@ -3,20 +3,27 @@ layout: default
 title: Testing How-To
 ---
 
+<a href="#links">Jump to Links</a>
+
+<h2>Posts</h2>
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="#{{ post.this }}">{{ post.title }}</a></h2>
+      <h3><a href="#{{ post.this }}">{{ post.title }}</a></h3>
       <p>{{ post.description }}</p>
       <p>By: {{ post.author }}</p>
     </li>
   {% endfor %}
 </ul>
 
-{% for post in site.posts %}
-<h2 id="post.this">{{ post.title }}</h2>
-    <p>{{ post.description }}</p>
-    <p>By: {{ post.author }}</p>
-  {{post.Content}}
-<hr>
-{% endfor %}
+<br>
+
+<h2 id="links">Links</h2>
+<ul>
+  {% for hyperlink in data.links %}
+    <li>
+      <h2><a href="#{{ hyperlink.url }}">{{ hyperlink.title }}</a></h2>
+      <p>{{ hyperlink.description }}</p>
+    </li>
+  {% endfor %}
+</ul>
