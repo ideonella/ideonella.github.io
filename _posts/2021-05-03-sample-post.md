@@ -16,13 +16,13 @@ Your Title and Description will automatically be posted here. Sections should be
 
 This is the testPost0's Test 0. These are some fancy styles `A chat command would go in here.` and *slanted* and also **bold**.
 
-```lots
+``lots
 
 of
 
 chat commands
 
-go here.```
+go here.``
 
 links look like [this](https://magicgirls.us) or you can link another section, like to go back to the [sections](#sections).
 
@@ -35,6 +35,10 @@ A GOLD banner looks like this.
 {: .alert}
 
 Use the gold banner when time will be wasted, or when there's a special note.
+
+Use the horizontal break (below) to add a fancy line!!
+
+---
 
 ## Test 1 {#test-1}
 
