@@ -2,6 +2,7 @@
 layout: default
 title: Testing How-To
 ---
+
 <ul>
   {% for post in site.posts %}
     <li>
