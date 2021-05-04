@@ -5,7 +5,7 @@ author: UpTide
 layout: post
 ---
 
-Your Title and Description will automatically be posted here. Sections should be included if the article will be longer than one page: three subsections or two phat subsections.
+Your Title and Description will automatically be posted here. Sections should be included if the article will be longer than one page: three subsections or two phat subsections. This part would be handy for an extended description.
 
 ## Sections {#sections}
 
