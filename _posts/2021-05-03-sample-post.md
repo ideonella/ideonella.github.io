@@ -3,6 +3,7 @@ title: Sample Post
 this: sample-post
 description: This is a test post that tests what an actual post will look like.
 author: UpTide
+layout: post
 ---
 
 Your Title and Description will automatically be posted here. Sections should be included if the article will be longer than one page: three subsections or two phat subsections.
