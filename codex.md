@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How To
+title: Codex
 ---
 # How To {#how-to}
 
