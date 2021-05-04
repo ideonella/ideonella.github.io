@@ -44,6 +44,7 @@ This is a table.
 |a|a|
 
 ### Tiny Table {#tiny-table}
+
 |Column Header|Second|
 |-------------|------|
 |test|test1|
