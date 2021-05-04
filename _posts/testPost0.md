@@ -1,6 +1,7 @@
 ---
 title: testPost0
 description: This is a test post that tests what an actual post will look like.
+author: UpTide
 ---
 
 ### Sections {#testpost0-sections}
