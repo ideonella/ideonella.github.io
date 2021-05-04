@@ -44,7 +44,7 @@ If you've not just started and need some discrete direction take this route:
     - If you're strapped for silver, enhance your Red Sand Crystal Rings from the Vallencia questline and Forest's Eye Earrings, a decent alternative to Red Coral Earrings even if you do have the cash, from the Kamasylve questline for the time being.
  4. Boss Gear upgeades
     - Succession: Upgrade to TET Kzarka mainhand
-    -  Awakening: Upgrade to TET Kzarka awakening
+    -  Awakening: Upgrade to TET Dandelion awakening
 
 
 
