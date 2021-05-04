@@ -6,6 +6,7 @@ title: Social Events
 # Socialization {#socialization}
 
 ![Picture of a group of magic_girl guildmates standing on a cliff waving flags.](/assets/images/bossNight.png)
+
 A potential guild member:
 
 > "What's important to me is the fellowship/community factor: of doing activities in game, with like-minded people."  
