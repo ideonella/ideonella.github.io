@@ -1,6 +1,6 @@
 ---
 title: Sample Post
-this: sample-post
+link: sample-post
 description: This is a test post that tests what an actual post will look like.
 author: UpTide
 layout: post
@@ -8,12 +8,12 @@ layout: post
 
 Your Title and Description will automatically be posted here. Sections should be included if the article will be longer than one page: three subsections or two phat subsections.
 
-### Sections {#{{this}}-sections}
+### Sections {#{{link}}-sections}
 
-- [Test 0] (#{{this}}-test-0)
-- [Test 1] (#{{this}}-test-1)
+- [Test 0] (#{{link}}-test-0)
+- [Test 1] (#{{link}}-test-1)
 
-### Test 0 {#{{this}}-test-0}
+### Test 0 {#{{link}}-test-0}
 
 This is the testPost0's Test 0. These are some fancy styles `A chat command would go in here.` and *slanted* and also **bold**.
 
@@ -22,7 +22,7 @@ of
 chat commands
 go here.``
 
-links look like [this](https://magicgirls.us) or you can link another section, like to go back to the [sections](#{{this}}-sections).
+links look like [this](https://magicgirls.us) or you can link another section, like to go back to the [sections](#{{link}}-sections).
 
 A RED banner looks like this. {: .critical}
 
@@ -32,7 +32,7 @@ A GOLD banner looks like this. {: .alert}
 
 Use the gold banner when time will be wasted, or when there's a special note.
 
-### Test 1 {#{{this}}-test-1}
+### Test 1 {#{{link}}-test-1}
 
 This is a table.
 
