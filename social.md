@@ -5,7 +5,7 @@ title: Social Events
 
 # Socialization {#socialization}
 
-![Picture of a group of magic_girl guildmates standing on a cliff waving flags.](/assets/images/bossNight.png)!
+![Picture of a group of magic_girl guildmates standing on a cliff waving flags.](/assets/images/bossNight.png)
 
 A potential guild member:
 
