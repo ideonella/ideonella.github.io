@@ -9,12 +9,12 @@ Your Title and Description will automatically be posted here. Sections should be
 
 ## Sections {#sections}
 
-- [Test 0](#test-0)
-- [Test 1](#test-1)
+- [Header2 Style](#header2-style)
+- [Tables](#tables)
 
-## Test 0 {#test-0}
+## Header2 Style {#header2-style}
 
-This is the testPost0's Test 0. These are some fancy styles `A chat command would go in here.` and *slanted* and also **bold**.
+This is the Sample Post's Test 0. These are some fancy styles `A chat command would go in here.` and *slanted* and also **bold**.
 
 A RED banner looks like this.
 {: .critical}
@@ -34,7 +34,7 @@ Use the horizontal break (below) to add a fancy line!!
 
 ---
 
-## Test 1 {#test-1}
+## Tables {#tables}
 
 This is a table.
 
@@ -46,7 +46,7 @@ This is a table.
 
 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-### Tiny Table {#tiny-table}
+### Header3 Style {#header3-style}
 
 |Column Header|Second|
 |-------------|------|
