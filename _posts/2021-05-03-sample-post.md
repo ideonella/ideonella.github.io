@@ -23,11 +23,11 @@ go here.``
 
 links look like [this](https://magicgirls.us) or you can link another section, like to go back to the [sections](#sections).
 
-A RED banner looks like this. {: .critical}
+A RED banner looks like this. {: critical}
 
 Only use the red banner when something BAD will happen if the banner isn't read. Losing money, not being able to do something, or visiting a really hard area are all good red banner uses.
 
-A GOLD banner looks like this. {: .alert}
+A GOLD banner looks like this. {: alert}
 
 Use the gold banner when time will be wasted, or when there's a special note.
 
