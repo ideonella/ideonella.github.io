@@ -135,3 +135,12 @@ section.split {
 section.split div {
     flex: 1;
 }
+
+section.split div.left {
+    padding: 0 2em 0 0;
+}
+
+section.split div.right {
+    padding: 0 0 0 2em;
+}
+
