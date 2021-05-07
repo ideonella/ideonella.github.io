@@ -76,16 +76,14 @@ Unranked tournaments types:
 ~~~
 <section class="split">
  <div class="left">
- ~~~
-- Oasis, where everyone must use Oasis event armor, weapons, and cannot use accessories
-- Trial, where everyone uses a trial character for the tournament
-- Node, where everyone must limit their AP/DP to a certain amount.
-~~~
+  <ul>
+   <li>Oasis, where everyone must use Oasis event armor, weapons, and cannot use accessories.</li>
+   <li>Trial, where everyone uses a trial character for the tournament.</li>
+   <li>Node, where everyone must limit their AP/DP to a certain amount.</li>
+  </ul>
  </div>
  <div class="right">
-~~~
-![Picture of a group of magic_girl guildmates standing on a cliff waving flags.](/assets/images/bossNight.png)
-~~~
+  <img src="/assets/images/elephant.png" alt="Photo of magic girls gathered around an elephant.">
  </div>
 </section>
 ~~~
