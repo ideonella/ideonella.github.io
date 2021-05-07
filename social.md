@@ -73,17 +73,22 @@ eastcoast&westcoast blazeit
 
 Some of our members are passionate about PvP. This lets us have fun tournament events! There are two kinds of tournaments. Ranked and unranked. Power, or ranked, tournaments happen on the first **Sunday** of the month after Vell and are used to determine P-Rank. Power tournaments use the member's own characters and gear. Enlisted's P-Rank will be published, but publishing is optional for regular members. Unranked tournaments happen every Sunday after Vell. 
 Unranked tournaments types:
+~~~
 <section class="split">
  <div class="left">
+ ~~~
 - Oasis, where everyone must use Oasis event armor, weapons, and cannot use accessories
 - Trial, where everyone uses a trial character for the tournament
 - Node, where everyone must limit their AP/DP to a certain amount.
+~~~
  </div>
  <div class="right">
-  
+~~~
 ![Picture of a group of magic_girl guildmates standing on a cliff waving flags.](/assets/images/bossNight.png)
+~~~
  </div>
 </section>
+~~~
 This is a great spectator event!
 
 ---
