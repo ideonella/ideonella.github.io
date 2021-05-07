@@ -73,7 +73,7 @@ eastcoast&westcoast blazeit
 
 Some of our members are passionate about PvP. This lets us have fun tournament events! There are two kinds of tournaments. Ranked and unranked. Power, or ranked, tournaments happen on the first **Sunday** of the month after Vell and are used to determine P-Rank. Power tournaments use the member's own characters and gear. Enlisted's P-Rank will be published, but publishing is optional for regular members. Unranked tournaments happen every Sunday after Vell. 
 Unranked tournaments types:
-~~~
+
 <section class="split">
  <div class="left">
   <ul>
@@ -86,7 +86,7 @@ Unranked tournaments types:
   <img src="/assets/images/elephant.png" alt="Photo of magic girls gathered around an elephant.">
  </div>
 </section>
-~~~
+
 This is a great spectator event!
 
 ---
