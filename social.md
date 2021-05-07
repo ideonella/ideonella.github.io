@@ -74,7 +74,7 @@ eastcoast&westcoast blazeit
 <section class="split">
  <div class="left">
   <ul>
-   <p>Some of our members are passionate about PvP. This lets us have fun tournament events! There are two kinds of tournaments. Ranked and unranked. Power, or ranked, tournaments happen on the first **Sunday** of the month after Vell and are used to determine P-Rank. Power tournaments use the member's own characters and gear. Enlisted's P-Rank will be published, but publishing is optional for regular members. Unranked tournaments happen every Sunday after Vell.</p><p>Unranked tournaments types:</p>
+   <p>Some of our members are passionate about PvP. This lets us have fun tournament events! There are two kinds of tournaments. Ranked and unranked. Power, or ranked, tournaments happen on the first <b>Sunday</b> of the month after Vell and are used to determine P-Rank. Power tournaments use the member's own characters and gear. Enlisted's P-Rank will be published, but publishing is optional for regular members. Unranked tournaments happen every Sunday after Vell.</p><p>Unranked tournaments types:</p>
    <li>Oasis, where everyone must use Oasis event armor, weapons, and cannot use accessories.</li>
    <li>Trial, where everyone uses a trial character for the tournament.</li>
    <li>Node, where everyone must limit their AP/DP to a certain amount.</li>
