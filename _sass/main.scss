@@ -127,3 +127,11 @@ pre {
 .current {
     color: $magic-gray;
   }
+
+section.split {
+    display: flex;
+}
+
+section.split div {
+    flex: 1;
+}
