@@ -9,8 +9,8 @@ title: Testing How-To
 <p>Editor-in-chief: GeoCrumb</p>
 {% for post in site.posts %}
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.description }}<br>
-    By: {{ post.author }}</p>
+    <blockquote>{{ post.description }}
+    <p class="signature">By: {{ post.author }}</p></blockquote>
 {% endfor %}
 <hr>
 <h2 id="links">Links</h2>
