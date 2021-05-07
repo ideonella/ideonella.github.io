@@ -59,3 +59,5 @@ Militia may not be punished for breaking PvP duties unless they refuse to retrea
 - The commander answers to the guildmaster.
 - Consequences fall on the superior who issued the order.
 - Enlisted duties do not apply during Skirmishes.
+
+![Picture of magic girls gathered around their war elephant, ChonkStomper.](/assets/images/chonkStomper.png)
