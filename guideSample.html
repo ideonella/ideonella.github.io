@@ -15,7 +15,7 @@ title: Testing How-To
 <hr>
 <h2 id="links">Links</h2>
 <ul>
-  {% for hyperlink in data.links %}
+  {% for hyperlink in site.data.links %}
     <li>
       <h2><a href="#{{ hyperlink.link }}">{{ hyperlink.title }}</a></h2>
       <p>{{ hyperlink.description }}</p>
