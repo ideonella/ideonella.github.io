@@ -1,6 +1,6 @@
 ---
 layout: default
-title: secrets
+title: ???
 ---
 There are no secrets in this game. All parts are known.
 
