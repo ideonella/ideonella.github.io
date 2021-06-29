@@ -1,0 +1,123 @@
+baseURL = "https://magicgirls.us/"
+languageCode = "en-us"
+title = "Magic Girls"
+#theme = "piercer"
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = false
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = false
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
+
+[params]
+    description = "The Magic Girls guild website."
+    favicon = "favicon.ico"
+    logo = ""
+
+[params.postcss]
+    postcss = false
+
+[params.palette]
+    text = "#fdfdfd"
+    background = "#282a36"
+    accent = "#44475a"
+    foreground = "#f8f8f2"
+    separator = "#6272a4"
+    cyan = "#8be9fd"
+    green = "#50fa7b"
+    orange = "#ffb86c"
+    pink = "#ff79c6"
+    purple = "#bd93f9"
+    red = "#ff5555"
+    yellow = "#f1fa8c"
+
+[params.fontsizes]
+    base = "1em"
+    p = "1.25em"
+    h4 = "1.563em"
+    h3 = "1.953em"
+    h2 = "2.441em"
+    h1 = "3.052em"
+
+[params.googlefonts]
+    font = ""
+
+[params.serviceWorker]
+    enable = true
+
+[params.header]
+    show = true
+
+[params.cta]
+    show = true
+    message = "Learn more!"
+    link = "../about"
+
+[params.fa]
+    disable = false
+    kit = ""
+
+# [params.form]
+#     show = true
+#     netlify = false
+#     action = ""
+#     method = "POST"
+#     section = "Contact me!"
+#     disclaimer = "Elit anim sit labore tempor exercitation in ad cupidatat."
+#     inputNameName = "Name"
+#     inputNameLabel = "Name"
+#     inputNamePlaceholder = "Your Name"
+#     inputEmailName = "Email"
+#     inputEmailLabel = "Email"
+#     inputEmailPlaceholder = "Your Email"
+#     SubmitValue = ""
+
+[params.contact]
+    show = true
+    # email = "example@hugo.com"
+    # phone = "123456789+"
+    discord = "discord.gg/BRvR6g4zyE"
+    # address = "P. Sherman 42, Wallaby Way, Sydney"
+
+[params.date]
+    format = ""
+
+# [params.social]
+#     twitter = "#"
+#     facebook = "#"
+#     github = "#"
+#     gitlab = "#"
+#     codepen = "#"
+#     instagram = "#"
+#     pinterest = "#"
+#     youtube = "#"
+#     linkedin = ""
+#     weibo = ""
+#     mastodon = ""
+#     tumblr = ""
+#     flickr = ""
+#     "500px" = ""
+#     rss = "#"
+
+[params.copy]
+    message = ""
+
+[params.agreement]
+    message = "We're the Magic Girls"
+
+[params.notfound]
+    message = ""
