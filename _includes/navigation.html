@@ -1,6 +1,0 @@
-<nav>
-   <img src="/assets/images/web.png" alt="Guild's Magic Girl." class="magic-girl"><br>
-  {% for item in site.data.navigation %}
-  <a href="{{ item.link }}"{% if page.url == item.link %}class="magic-white-font current"{% elsif page.url != item.link %}class="magic-white-font"{% endif %}>{{ item.name }}</a><br>
-  {% endfor %}
-</nav>
