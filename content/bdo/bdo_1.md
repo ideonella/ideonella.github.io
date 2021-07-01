@@ -1,9 +1,9 @@
 ---
 title: "BDO-Post-One"
-description: "asd"
-date: 2019-03-28T12:39:56+01:00
+description: "First post description here"
+date: 2021-07-01T14:19:56-05:00
 publishDate: 2019-03-28T12:39:56+01:00
-author: ""
+author: "Ideonella"
 draft: false
 images: []
 tags: ["bdo", "about"]

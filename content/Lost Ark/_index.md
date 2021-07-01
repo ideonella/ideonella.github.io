@@ -1,7 +1,7 @@
 ---
 title: "Lost Ark"
 description: "Lost Ark MMO"
-draft: false
+draft: true
 images: []
 menu: main
 weight: 3

@@ -1,0 +1,14 @@
+{{ $bc := "" }}
+
+{{ if .Params.borderColor }}
+{{ $bc = printf "%s%s%s" "border-bottom: 5px solid var(--" (.Params.borderColor) ");"}}
+{{ end }}
+
+<section class="game-intro" id="gameintro" style="{{ safeCSS $bc }}">
+
+        <!-- Content -->
+        <main class="single__content">
+            {{ .Content }}
+        </main>
+        
+</section>
