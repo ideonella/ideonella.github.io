@@ -6,4 +6,4 @@ images: ["images/bdo_1.jpg"]
 borderColor: "green"
 ---
 
-![BDO](images/bdo_0.png "Black Desert Online")
+[![BDO](images/bdo_0.png "Black Desert Online")]({{% ref "bdo" %}})

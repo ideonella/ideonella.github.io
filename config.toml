@@ -121,3 +121,8 @@ title = "Magic Girls"
 
 [params.notfound]
     message = ""
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = false

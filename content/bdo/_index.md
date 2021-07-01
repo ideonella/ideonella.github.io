@@ -1,6 +1,6 @@
 ---
 title: "Black Desert Online"
-description: "Black Desert Online MMO"
+description: "The Magic Girls Black Desert Online MMO guild's landing page."
 draft: false
 images: []
 menu: main
@@ -10,7 +10,7 @@ borderColor: "red"
 
 # Magic_Girls {#magic-girls}
 
-Welcome to the Magic_Girls Black Desert Online guild site.
+Welcome to the Magic Girls' Black Desert Online guild Magic_Girls landing page.
 
 > "There's a magic girl in all of us!"
 
@@ -29,6 +29,7 @@ Talk to any of our officers in game or in Discord to join us and begin making fr
 - Ideonella
 - Mayhem
 - Ledvig
+- SirStronghold01
 - Waffle_Monster
 - Nekkar_Seginus
 

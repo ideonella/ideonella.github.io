@@ -1,4 +1,4 @@
-{{ $reset := resources.Get "css/reset.css" }}
+<!-- {{ $reset := resources.Get "css/reset.css" }}
 {{ $base := resources.Get "css/base.css" }}
 {{ $common := resources.Get "css/common.css" }}
 {{ $style := resources.Get "css/style.css" }}
@@ -8,6 +8,15 @@
 {{ $custom := resources.Get "css/custom.css" }}
 {{ $bundle := slice $reset $base $common $style $single $list $medias $custom | resources.Concat "css/bundle.css" }}
 
-{{ $css := $bundle | resources.Minify }}
+{{ $css := $bundle | resources.Minify }} -->
+
+{{ $style := resources.Get "css/base.css" }}
+{{ $components := resources.Match "css/" }}
+
+{{ range $components }}
+    {{ $style = slice $style . | resources.Concat .Name }}
+{{ end }}
+
+{{ $css := slice $style | resources.Concat "css/bundle.css" | minify | fingerprint }}
 
 <link rel="stylesheet" href="{{ $css.Permalink }}">
