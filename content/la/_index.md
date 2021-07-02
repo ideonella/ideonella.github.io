@@ -5,6 +5,9 @@ draft: true
 images: []
 menu: main
 weight: 3
+borderColor: "red"
 ---
 
 ctor
+
+![chair-girl](/images/chair-girl.png)

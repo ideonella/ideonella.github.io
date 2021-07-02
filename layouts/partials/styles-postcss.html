@@ -12,13 +12,13 @@
 {{ $css := $bundle | resources.PostCSS }} -->
 
 <!--- https://youtu.be/YkY2jQJu9Yo -->
-{{ $style := resources.Get "css/base.css" }}
+<!-- {{ $style := resources.Get "css/base.css" }}
 {{ $components := resources.Match "css/" }}
 
 {{ range $components }}
     {{ $style = slice $style . | resources.Concat .Name }}
 {{ end }}
 
-{{ $css := slice $style | resources.Concat "css/bundle.css" | minify | fingerprint }}
+{{ $css := slice $style | resources.Concat "css/bundle.css" | resources.ToCSS | minify | fingerprint }}
 
-<link rel="stylesheet" href="{{ $css.Permalink }}">
+<link rel="stylesheet" href="{{ $css.Permalink }}"> -->
