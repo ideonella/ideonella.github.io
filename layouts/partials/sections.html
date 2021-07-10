@@ -19,10 +19,26 @@
 
 
 <section class="section bkg-image" id="{{ .Title | anchorize }}" style="{{ safeCSS $bkg }} {{ safeCSS $bc }}">
-    <div>
-    <h1 class="section__title">{{ .Title }}</h1>
-    {{ .Content }}
+
+    <!-- <h1 class="section__title">{{ .Title }}</h1>
+    {{ .Content }} -->
+
+    <div class="grid" id="gamepages">
+    
+        <!-- Game subpages -->
+        {{ $pages := (where (where .Site.Pages "Section" .Params.directory ) "IsPage" true) }}
+        {{ range first 4 $pages }}
+          <div>
+              {{ if .Params.image }}
+                <img src="{{ .Params.image }}">
+              {{ else }}
+                {{ .Title }}
+              {{ end }}
+          </div>
+        {{ end }}
+    
     </div>
+
 </section>
 
 {{ end }}

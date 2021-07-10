@@ -4,11 +4,7 @@
 
     <!-- Game Intro and Static Pages -->
     {{ partial "game-intro.html" . }}
-
-    <!-- Game Sites -->
     
-
-
     <!-- Post Cards -->
     {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "post") }}
     {{ range $paginator.Pages }}
