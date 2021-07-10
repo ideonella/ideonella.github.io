@@ -18,4 +18,3 @@ This is post 3
 
 - What a life
 - This is content
-

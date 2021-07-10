@@ -111,7 +111,7 @@
     }
 
     .grid {
-      grid-template-columns: repeat(2, minmax(200px, 1fr));
+      grid-template-columns: repeat(2, minmax(20em, 1fr));
     }
 
     /* CONTACT */
@@ -140,6 +140,12 @@
   
     .header__title__link--logo {
       width: 20%;
+    }
+  
+    /* SECTIONS */
+
+    .grid {
+      grid-template-columns: repeat(2, minmax(20em, 1fr));
     }
   
     /* PAGINATION */

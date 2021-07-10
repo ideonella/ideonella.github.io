@@ -29,8 +29,9 @@
         {{ $pages := (where (where .Site.Pages "Section" .Params.directory ) "IsPage" true) }}
         {{ range first 4 $pages }}
           <div>
+              {{ .Content }}
               {{ if .Params.image }}
-                <img src="{{ .Params.image }}">
+                <img src="images\bdo_0.png">
               {{ else }}
                 {{ .Title }}
               {{ end }}

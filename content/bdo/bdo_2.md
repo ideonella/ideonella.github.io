@@ -10,7 +10,6 @@ tags: ["bdo"]
 type: post
 ---
 
-
 # Magic_Girls 2 {#magic-girls}
 
 This is post 2
@@ -19,4 +18,3 @@ This is post 2
 
 - What a life
 - This is content
-

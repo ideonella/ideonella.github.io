@@ -8,7 +8,7 @@ draft: false
 images: []
 tags: ["bdo", "about4"]
 type: post
-image: "images/bdo_0.png"
+image: "bdo_0.png"
 ---
 
-[![BDO](images/bdo_0.png "Black Desert Online")]({{% ref "bdo" %}})
+{{< figure src="{{ .Page.Parent.Resources. }}" >}}
