@@ -2,7 +2,7 @@
 title: ""
 draft: true
 weight: 2
-images: ["images/la_1.jpg"]
+images: ["la/images/la_1.jpg"]
 borderColor: "yellow"
 directory: "la"
 ---

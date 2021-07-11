@@ -20,25 +20,27 @@
 
 <section class="section bkg-image" id="{{ .Title | anchorize }}" style="{{ safeCSS $bkg }} {{ safeCSS $bc }}">
 
-    <!-- <h1 class="section__title">{{ .Title }}</h1>
+  <!-- <h1 class="section__title">{{ .Title }}</h1>
     {{ .Content }} -->
 
-    <div class="grid" id="gamepages">
-    
-        <!-- Game subpages -->
-        {{ $pages := (where (where .Site.Pages "Section" .Params.directory ) "IsPage" true) }}
-        {{ range first 4 $pages }}
-          <div>
-              {{ .Content }}
-              {{ if .Params.image }}
-                <img src="images\bdo_0.png">
-              {{ else }}
-                {{ .Title }}
-              {{ end }}
-          </div>
-        {{ end }}
-    
-    </div>
+  <div class="grid" id="gamepages">
+
+    <!-- Game subpages -->
+    <!-- This is a gnarly where... I wonder if it can be simpler?-->
+    <!-- {{ $pages := ( where ( where ( where .Site.Pages "Section" .Params.directory ) "IsPage" true) "Card" true ) }} -->
+    {{ $pages := where ( where .Site.Pages "Section" .Params.directory ) "IsPage" true }}
+
+    {{ range $pages}}
+      {{ if .Params.Card }}
+      <div>
+        <div>
+          {{ .Content }}
+        </div>
+      </div>
+      {{ end }}
+    {{ end }}
+
+  </div>
 
 </section>
 

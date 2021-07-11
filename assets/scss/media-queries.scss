@@ -1,156 +1,180 @@
 /*
 *** Breackpoints ***
 *
+* Very small devices:   360px;
 * Small devices:        576px;
 * Medium devices:       768px;
 * Large devices:        992px;
 * Extra large devices:  1200px;
 *
 */
+@media only screen and (min-width: 360px) {
+  .grid {
+    grid-template-columns: repeat(1, minmax(200px, 1fr));
+
+    > div {
+      margin: .75rem;
+    }
+  }
+}
 
 @media only screen and (min-width: 576px) {
-    /* HEADER */
-  
-    .header {
-      padding: 1.15rem 2.75rem;
-    }
-  
-    /* SECTIONS */
-  
-    .section {
-      padding: 1.25rem 5%;
-    }
+  /* HEADER */
 
-    .grid {
-      grid-template-columns: repeat(1, minmax(200px, 1fr));
-    }
-  
-    /* CONTACT */
-  
-    .contact__disclaimer {
-      padding: 0 5%;
-    }
-  
-    /* CONTENT */
-  
-    .single__content {
-      padding: 1.45rem 5%;
-    }
-  
-    /* FOOTER */
-  
-    .contact-info__info {
-      flex-direction: row;
-      flex-wrap: wrap;
-    }
-  
-    .footer__agreement {
-      padding: 1.45rem 5%;
-    }
-  
-    /* PAGINATION */
-  
-    .pagination {
-      padding: 0 15%;
+  .header {
+    padding: 1.15rem 2.75rem;
+  }
+
+  /* SECTIONS */
+
+  .section {
+    padding: 1.25rem 5%;
+  }
+
+  .grid {
+    > div {
+      min-width: 24em;
+      margin: 1rem;
     }
   }
-  
-  @media only screen and (min-width: 768px) {
-    /* HEADER */
-  
-    .header__title__link--logo {
-      width: 35%;
-    }
-  
-    /* SECTIONS */
-  
-    .section {
-      padding: 1.25rem 9%;
-    }
-  
-    /* CONTACT */
-  
-    .contact__disclaimer {
-      padding: 0 9%;
-    }
-  
-    /* CONTENT */
-  
-    .single__content, .footer__agreement {
-      padding: 1.45rem 9%;
-    }
-  
-    /* FOOTER */
-  
-    hr {
-      width: 25%;
-    }
-  
-    /* PAGINATION */
-  
-    .pagination {
-      padding: 0 20%;
+
+  /* CONTACT */
+
+  .contact__disclaimer {
+    padding: 0 5%;
+  }
+
+  /* CONTENT */
+
+  .single__content {
+    padding: 1.45rem 5%;
+  }
+
+  /* FOOTER */
+
+  .contact-info__info {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .footer__agreement {
+    padding: 1.45rem 5%;
+  }
+
+  /* PAGINATION */
+
+  .pagination {
+    padding: 0 15%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  /* HEADER */
+
+  .header__title__link--logo {
+    width: 35%;
+  }
+
+  /* SECTIONS */
+
+  .section {
+    padding: 1.25rem 9%;
+  }
+
+  /* CONTACT */
+
+  .contact__disclaimer {
+    padding: 0 9%;
+  }
+
+  /* CONTENT */
+
+  .single__content,
+  .footer__agreement {
+    padding: 1.45rem 9%;
+  }
+
+  /* FOOTER */
+
+  hr {
+    width: 25%;
+  }
+
+  /* PAGINATION */
+
+  .pagination {
+    padding: 0 20%;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  /* HEADER */
+
+  .header {
+    padding: 0.75rem 4.75rem;
+  }
+
+  .header__title__link--logo {
+    width: 25%;
+  }
+
+  /* SECTIONS */
+
+  .section {
+    padding: 1.25rem 21%;
+  }
+
+  .grid {
+    grid-template-columns: repeat(2, minmax(20em, 1fr));
+    > div {
+      min-width: 26em;
+      margin: 1.5rem;
     }
   }
-  
-  @media only screen and (min-width: 992px) {
-    /* HEADER */
-  
-    .header {
-      padding: 0.75rem 4.75rem;
-    }
-  
-    .header__title__link--logo {
-      width: 25%;
-    }
-  
-    /* SECTIONS */
-  
-    .section {
-      padding: 1.25rem 21%;
-    }
 
-    .grid {
-      grid-template-columns: repeat(2, minmax(20em, 1fr));
-    }
+  /* CONTACT */
 
-    /* CONTACT */
-  
-    .contact__disclaimer {
-      padding: 0 21%;
-    }
-  
-    /* CONTENT */
-  
-    .single__content, .footer__agreement {
-      padding: 1.45rem 21%;
-    }
-  
-    /* FOOTER */
-  
-    /* PAGINATION */
-  
-    .pagination {
-      padding: 0 25%;
+  .contact__disclaimer {
+    padding: 0 21%;
+  }
+
+  /* CONTENT */
+
+  .single__content,
+  .footer__agreement {
+    padding: 1.45rem 21%;
+  }
+
+  /* FOOTER */
+
+  /* PAGINATION */
+
+  .pagination {
+    padding: 0 25%;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  /* HEADER */
+
+  .header__title__link--logo {
+    width: 20%;
+  }
+
+  /* SECTIONS */
+
+  .grid {
+    margin: 1.75rem;
+
+    > div {
+      min-width: 33em;
+      margin: 2rem;
     }
   }
-  
-  @media only screen and (min-width: 1000px) {
-    /* HEADER */
-  
-    .header__title__link--logo {
-      width: 20%;
-    }
-  
-    /* SECTIONS */
 
-    .grid {
-      grid-template-columns: repeat(2, minmax(20em, 1fr));
-    }
-  
-    /* PAGINATION */
-  
-    .pagination {
-      padding: 0 30%;
-    }
+  /* PAGINATION */
+
+  .pagination {
+    padding: 0 30%;
   }
+}
