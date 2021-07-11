@@ -13,7 +13,7 @@
     grid-template-columns: repeat(1, minmax(200px, 1fr));
 
     > div {
-      margin: .75rem;
+      margin: .75em;
     }
   }
 }
@@ -34,7 +34,7 @@
   .grid {
     > div {
       min-width: 24em;
-      margin: 1rem;
+      margin: 1.5em;
     }
   }
 
@@ -128,7 +128,7 @@
     grid-template-columns: repeat(2, minmax(20em, 1fr));
     > div {
       min-width: 26em;
-      margin: 1.5rem;
+      margin: 1.5em;
     }
   }
 
@@ -164,11 +164,11 @@
   /* SECTIONS */
 
   .grid {
-    margin: 1.75rem;
+    margin: 1.75em;
 
     > div {
       min-width: 33em;
-      margin: 2rem;
+      margin: 2em;
     }
   }
 

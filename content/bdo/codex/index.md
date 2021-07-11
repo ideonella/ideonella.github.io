@@ -13,4 +13,4 @@ card: true
 
 <br>
 
-The magic girls Codex
+The Magic Girls BDO Codex
